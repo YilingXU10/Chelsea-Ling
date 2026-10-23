@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Chelsea Ling
+<!-- 👋 Hi, I’m Chelsea Ling
 - 🌱 I’m a sophomore major in software engineering
-- 📫 reach me at x.yling@qq.com
+- 📫 reach me at x.yling@qq.com>
 
 <!---- 👀 I’m interested in ...-
 - 🌱 I’m currently learning ...
